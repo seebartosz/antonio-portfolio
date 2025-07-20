@@ -1,0 +1,34 @@
+1. Personal Information:
+Full Name: Antônio Joaquim Pereira Monteiro Silva (use where your name is displayed, such as in the header and 'About Me' section).
+
+Email: anttmontteiro@gmail.com (for the contact form and email links).
+
+City: Brasília, DF (can be added in the 'About Me' section or footer, if space allows).
+
+University: CEUB Asa Norte, Segundo Semestre em Ciência da Computação (use in the 'Education' section).
+
+2. Content and Section Changes:
+'Projects' Section:
+
+Change the text from "12+ Projetos" to "7+ Projetos". (If the 'Projects' section still exists, despite being a student portfolio without experience, interpret this as a placeholder or an intention for future projects, keeping the focus on internships).
+
+'Skills' Section:
+
+Update the text regarding programming languages to reflect that you are in a learning phase. For example, instead of just listing "Python," it could be "Python (em aprendizado)," or add an introductory text in the section saying "Minhas habilidades técnicas estão em constante desenvolvimento, com foco atual em:".
+
+Remove 'Linux' from the 'Tools and Technologies' list.
+
+Ensure the section is named "Habilidades Técnicas em Desenvolvimento" or similar, to reflect your student status.
+
+'Education' Section (Timeline):
+
+Update the semester to the correct one: "Segundo Semestre" (as of July 2025).
+
+Add an earlier entry in the timeline indicating your interest and learning of Python programming during high school. Example: "Ensino Médio: Início do interesse em programação, com aprendizado autodidata de Python."
+
+At the end of the timeline, add an entry or phrase that conveys curiosity and future development. Example: "Em Constante Evolução: Buscando novos desafios e explorando as próximas fronteiras da Ciência da Computação."
+
+3. Color Palette:
+Change the predominant color palette to a black and white (grayscale) scheme. Use shades of gray, black, and white for the design, maintaining a modern and minimalist interface. Small touches of a neutral accent color (like a very dark gray or an off-white) are acceptable, but the focus should be on the absence of vibrant colors.
+
+Ensure all these changes are harmoniously integrated into the existing design, maintaining responsiveness and code quality.

@@ -1,0 +1,43 @@
+Detailed Professional Portfolio Update Prompt
+"Update the existing developer portfolio to be even more professional, interactive, and visually impactful, maintaining the clean, modern, and responsive HTML, CSS, and JavaScript structure. The code should be optimized for VS Code. All textual content, labels, and descriptions within the portfolio must be in Brazilian Portuguese (pt-br).
+
+1. Remove Photo and Additional Content:
+Completely remove the need for a profile photo from the header (Hero Section) and any other section of the portfolio. The section should focus solely on text and CTA buttons.
+
+2. Education Timeline Revision:
+Reorganize the timeline in the 'Educação' section so events appear in correct chronological order, from oldest to most recent.
+
+First entry: Detail your interest and learning of Python during High School. Example: "Ensino Médio: Início do interesse em programação, com aprendizado autodidata de Python."
+
+Second entry: Indicate the start of your Computer Science degree. The start year must be 2025.
+
+Third entry (current): Indicate your current status as "Segundo Semestre em Ciência da Computação" at CEUB Asa Norte, with the year 2025 as the current year.
+
+At the end of the timeline, keep the phrase that conveys curiosity and future development: "Em Constante Evolução: Buscando novos novos desafios e explorando as próximas fronteiras da Ciência da Computação."
+
+3. Symbols and Interactivity in Skills and Technologies:
+In the 'Habilidades Técnicas em Desenvolvimento' section:
+
+For all listed programming languages and technologies, include their official, recognizable symbols/logos next to their names. E.g., the Python symbol next to "Python".
+
+Ensure the interaction with these symbols is professional and subtle, like a small hover effect or fade-in.
+
+Add 'JavaScript' to the list of programming languages in the 'Habilidades' section, with its respective symbol.
+
+4. New Section: "Como Construí Este Portfólio":
+Create a new dedicated section with the title: "Como Construí Este Portfólio".
+
+In this section, list the technologies and programming languages that were used to build the portfolio itself.
+
+Next to each listed technology/language, include its official, recognizable symbol/logo.
+
+Example content: "Este portfólio foi cuidadosamente desenvolvido utilizando: HTML5 (símbolo), CSS3 (símbolo), JavaScript (símbolo)."
+
+5. General Design and Interactivity Enhancements:
+Professional Interactivity: Elevate the level of interactivity with more fluid and elegant microinteractions. This includes smoother transitions on scroll, more responsive visual feedback on buttons and links, and element entrance animations that are more "polished" and less abrupt.
+
+Harmonious Design: The black and white color palette should be applied with mastery, using variations of gray tones to create depth and contrast without relying on color. Typography must complement this style, being modern and highly legible.
+
+Professional Appearance: All visual and interactive elements should contribute to an image of seriousness, attention to detail, and a keen eye for design and user experience. The portfolio must be impeccable.
+
+Remember that the Replit AI will interpret these instructions to generate the code. The more specific you are in your description, the better the result will be.

@@ -1,0 +1,71 @@
+Absolutely! To ensure the Replit AI creates a portfolio with even more design detail, focusing on an enhanced visual aesthetic, use this prompt:
+
+Professional Portfolio with Detailed Design Prompt
+"Update the existing developer portfolio to be extremely professional, highly interactive, and visually sophisticated, with meticulous attention to design details. Maintain a clean, modern, and responsive HTML, CSS, and JavaScript structure. The code should be optimized for VS Code. All textual content, labels, and descriptions within the portfolio must be in Brazilian Portuguese (pt-br).
+
+1. Updated Personal Information:
+Full Name: Antônio Joaquim Pereira Monteiro Silva.
+
+Email: anttmontteiro@gmail.com.
+
+City: Brasília, DF.
+
+University: CEUB Asa Norte, Segundo Semestre em Ciência da Computação (starting 2025).
+
+2. Refined Content and Sections:
+Remove Photo: Do not include a profile photo.
+
+'Projetos' Section: Do not include fictional projects. If a 'Projetos' section was kept as a placeholder, either remove it temporarily or clearly label it as "Projetos em Construção" (Projects Under Construction) or "Projetos Futuros" (Future Projects). The primary focus should be on your skills, education, and the "Como Construí Este Portfólio" section.
+
+'Habilidades Técnicas em Desenvolvimento' Section:
+
+Clearly indicate that skills are in a learning phase.
+
+Remove 'Linux'.
+
+Include 'JavaScript'.
+
+Use a stylized and professional design to represent the logos/symbols of technologies and languages, instead of just standard images. Explore custom SVG icons, with sophisticated hover animations (e.g., subtle glow, elegant color change, discreet rotation) and a sleek tooltip effect on hover, showing the technology name.
+
+'Educação' Section (Timeline):
+
+Maintain the correct chronological order: "Ensino Médio: Início do interesse em programação, com aprendizado autodidata de Python" (High School: Beginning of interest in programming, with self-taught Python) before 2025; followed by the start of your university degree in 2025; and your current status in the second semester of 2025.
+
+Keep the concluding phrase about future development.
+
+Visually detail the timeline: use design elements like animated connectors, milestone icons that change state when viewed, and cards with a depth effect for each entry, perhaps with a subtle shadow or a slight shift on hover.
+
+New Section: "Como Construí Este Portfólio" (How I Built This Portfolio):
+
+Create a new dedicated section with this title.
+
+List HTML5, CSS3, and JavaScript with stylized and professional designs for their logos/symbols, using the same level of detail and animation as the skills section.
+
+3. Emphasis on Interactivity and Animations (Motion Design):
+Professional Interactivity: Significantly increase the portfolio's interactivity with performant and elegant animations throughout the site.
+
+Enhanced Microinteractions: Refine and add more microinteractions with smooth CSS transitions and optimized JavaScript animations. Think about effects for buttons (e.g., gradual fill, ripple effect), links (animated underlines, intelligent color changes), and form elements (gentle border highlight on focus).
+
+Dynamic Scroll Animations: Implement more complex and engaging scroll animations. Elements should smoothly slide into view, with more noticeable parallax effects on backgrounds or key images. Consider cascading reveal animations for items in lists or grids, and numerical counters that animate their count when they come into view (if applicable, such as for years of experience if ever added).
+
+Section Transitions: Transitions when navigating between sections should be extremely fluid and feature impactful visual effects, such as cross-fades, slides, or subtle zooms that create a sense of continuous navigation.
+
+Motion Design for Logos and Icons: Explore subtle looping animations for technology logos in the skills section and the "Como Construí Este Portfólio" section. On interaction (hover), these animations can slightly intensify.
+
+4. Design Details and Color Palette:
+Overall Aesthetics: Maintain a modern, minimalist, and clean design, but add a layer of visual refinement. Consider:
+
+Typography: Choose high-quality fonts (Google Fonts or similar) with a well-defined typographical hierarchy for headings, subheadings, and body text, ensuring both readability and visual impact. Vary weights and styles to create interest.
+
+Whitespace: Utilize generous and intentional whitespace to create a sense of lightness, sophistication, and improved readability.
+
+Subtle Shadows and Gradients: Instead of heavy shadows, use soft, well-diffused shadows to give depth to cards or interactive elements. Very subtle and linear gradients can be used in backgrounds or overlays to add texture without overwhelming.
+
+Lines and Dividers: Use thin lines or minimalist dividers to separate sections or group content, maintaining clarity and elegance.
+
+Rounded Borders: Consistently apply rounded borders to elements like buttons, cards, and images for a softer, more modern feel.
+
+Color Palette: Use a professional and harmonious color palette focusing on tones that convey seriousness and modernity. Consider a main theme color and one or two accent colors to be used sparingly for interactive elements or important headings. Implement a Light Mode/Dark Mode option with smooth and pleasant visual transitions that reflect a design thoughtfully created for both themes.
+
+5. Focus on Professional Appearance and UX:
+Every aspect of the design and interactivity should be meticulously planned to convey a high level of professionalism, attention to detail, and a keen eye for User Experience (UX) and User Interface (UI). The portfolio must be impeccable in its visual and functional execution.

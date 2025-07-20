@@ -1,0 +1,97 @@
+1. Estrutura e Seções Essenciais:
+Cabeçalho (Hero Section):
+
+Título principal com seu nome e a frase "Estudante de Ciência da Computação | Em Busca de Estágios".
+
+Uma breve frase que expresse sua paixão por tecnologia e o que você busca (ex: "Apaixonado por resolver problemas e aprender novas tecnologias.").
+
+Foto de perfil profissional circular (ou avatar ilustrativo amigável).
+
+Um único Botão de Call to Action (CTA) como 'Saber Mais' ou 'Ver Habilidades', com uma animação de hover simples.
+
+Fundo sutil e estático (ex: um gradiente suave ou uma imagem abstrata leve).
+
+Barra de Navegação Fixa: Menu de navegação responsivo que se fixa no topo da tela ao rolar, com scroll suave para as seções. Inclua ícones de redes sociais (LinkedIn, GitHub, etc.) na barra.
+
+Sobre Mim:
+
+Texto conciso e honesto, explicando sua jornada como estudante, o que o atraiu para a Ciência da Computação e quais áreas te interessam mais (ex: "futuro em desenvolvimento web, IA, etc.").
+
+Destaque para sua paixão por aprender e sua proatividade.
+
+Botão 'Baixar Currículo' (link para PDF) com um ícone simples.
+
+Habilidades:
+
+Categorias claras de habilidades técnicas (Linguagens de Programação que está aprendendo, Ferramentas básicas, Bancos de Dados que conhece) e soft skills (Resolução de Problemas, Trabalho em Equipe, Curiosidade, etc.).
+
+Para cada habilidade técnica, use ícones claros (ex: logo do Python, Java, C++, VS Code, Git) ou barras de conhecimento representativas (sem percentuais, apenas visual para "conhecimento básico", "intermediário").
+
+Sem barras de progresso animadas que sugerem níveis de proficiência muito altos, para manter a honestidade e a simplicidade.
+
+Educação:
+
+Apresentado como uma lista simples ou linha do tempo vertical mostrando:
+
+Nome da Instituição de Ensino.
+
+Nome do Curso (Ciência da Computação).
+
+Período (Ex: "2023 - Atualmente").
+
+Disciplinas ou áreas de estudo de maior interesse (ex: "Algoritmos e Estruturas de Dados, Programação Orientada a Objetos, Fundamentos de Redes").
+
+Mencionar brevemente quaisquer projetos acadêmicos relevantes (mesmo que pequenos, como um projeto de cadeira) ou participações em hackathons/eventos da faculdade, sem a necessidade de links para código.
+
+Interesses/O que Estou Aprendendo:
+
+Uma seção para mostrar que você é proativo. Liste tecnologias que você está estudando atualmente (ex: "Atualmente estudando React", "Explorando Machine Learning") ou áreas de interesse para futuros projetos.
+
+Pode ser com ícones ou pequenos cards.
+
+Contato:
+
+Formulário de contato simples (usando um serviço como Formspree.io para o backend), com campos básicos (Nome, Email, Mensagem).
+
+Links diretos para redes sociais relevantes para carreira (LinkedIn, GitHub) e e-mail, com ícones sociais estáticos ou com hover sutil.
+
+Rodapé: Copyright e talvez um botão 'Voltar ao Topo'.
+
+2. Design e Animações:
+Estilo Visual: Design limpo, minimalista e convidativo, focado na facilidade de leitura. Cores claras e acessíveis.
+
+Paleta de Cores: Cores profissionais e harmoniosas, que transmitam seriedade e modernidade. Não é necessário um modo claro/escuro complexo, mas sim um tema padrão bem definido.
+
+Tipografia: Fontes profissionais e fáceis de ler, com hierarquia clara.
+
+Microinterações:
+
+Transições e animações sutis e discretas (ex: fade-in simples para elementos ao entrar na tela, hover states para botões e links). O objetivo é dar fluidez, não distrair.
+
+Consistência: Manter a consistência visual em todo o portfólio.
+
+3. Qualidade do Código e Otimização:
+HTML Semântico: Uso correto de tags HTML5.
+
+CSS Otimizado:
+
+Código organizado e fácil de entender.
+
+Media Queries bem definidas para garantir responsividade básica e funcional.
+
+JavaScript Moderno:
+
+Código claro e conciso, focado em interações simples (ex: scroll suave, funcionalidade do formulário).
+
+Evitar bibliotecas complexas, priorizar JavaScript puro.
+
+Acessibilidade (A11y): Implementação de atributos alt em imagens e contraste de cores adequado.
+
+Performance: Imagens otimizadas e carregamento rápido para garantir uma boa primeira impressão.
+
+4. Estrutura de Projeto para VS Code:
+Organização de Pastas: Estrutura simples de diretórios (ex: index.html, css/, js/, img/).
+
+Comentários Detalhados: Comentários claros em todas as seções do código para facilitar o aprendizado e a manutenção.
+
+Documentação Simples: Um arquivo README.md explicando o propósito do portfólio e como executá-lo localmente."
